@@ -9,9 +9,10 @@ To compile the code, enter the "make" command in a terminal
 
 The program takes in up to 4 arguments: <filename>.txt, -l, -a, -v (only <filename>.txt is required and it must be the first argument)
 
--l prints the lexeme table and token list
--a prints the generated assembly code
--v prints the output of the virtual machine
+* Bullet list
+*-l prints the lexeme table and token list
+*-a prints the generated assembly code
+*-v prints the output of the virtual machine
 
 These 3 arguments are not required and you can use any number of them in any order
 
